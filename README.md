@@ -70,3 +70,7 @@ LinkedIn: (www.linkedin.com/in/rakesh-palani-8bb1aa38b)
 Email: (rakeshpalani2004@gmail.com)
 
 GitHub: (https://github.com/Rakesh051204)
+
+Leet code:(https://leetcode.com/u/Uy99OnEczN/)
+
+
