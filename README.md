@@ -82,3 +82,5 @@ https://github.com/your-username/leetcode-solutions
 - Strings: 10+
 - Linked List: 5+
 - Others: 15+
+![LeetCode](https://img.shields.io/badge/LeetCode-45%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode)
+![LeetCode](https://img.shields.io/badge/LeetCode-45%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode)
