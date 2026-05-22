@@ -74,3 +74,11 @@ GitHub: (https://github.com/Rakesh051204)
 Leet code:(https://leetcode.com/u/Uy99OnEczN/)
 
 https://github.com/your-username/leetcode-solutions
+## 🏆 My Progress
+
+![LeetCode](https://img.shields.io/badge/LeetCode-45%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode)
+
+- Arrays: 15+
+- Strings: 10+
+- Linked List: 5+
+- Others: 15+
