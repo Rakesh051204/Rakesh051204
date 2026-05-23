@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">🚀 DSA Enthusiast | Java Developer | LeetCode Solver</h3>
+<h3 align="center">🚀 DSA Enthusiast | Data Scientist | LeetCode Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Java+Developer;LeetCode+Problem+Solver;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -13,6 +17,10 @@
 - 💻 Solved **45+ LeetCode Problems**
 - 🚀 Building my GitHub profile
 - 🎯 Goal: Become a Software Engineer
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
+</p>
 
 ---
 
@@ -34,6 +42,10 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,git,github,vscode,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
 ---
@@ -60,6 +72,14 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh051204&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
