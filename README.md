@@ -70,19 +70,64 @@
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Uy99OnEczN?theme=dark&font=Karma&ext=contest"/>
 </p>
-# Rakesh Palani
+<h1 align="center">⚡ Rakesh Palani ⚡</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+the+Matrix...;AI+%7C+Machine+Learning+%7C+DSA;while(!success)+%7B+code();+learn();+repeat();+%7D" />
+</p>
+
+---
+
+```bash
+> Initializing system...
+> Loading AI modules...
+> Training mindset...
+> Entering the MATRIX...
+```
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="850"/>
+</p>
+
+---
+
+```cpp
+class MatrixDeveloper {
+public:
+    string name = "Rakesh";
+    string role = "AI Engineer";
+
+    void execute(){
+        while(!success){
+            learn();
+            code();
+            build();
+            evolve();
+        }
+    }
+};
+```
+
+---
+
+## ⚡ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,tensorflow,pytorch,git,github,vscode" />
+</p>
+
+---
+
+## 🐍 Matrix Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
---- i want this like matix code give an effective animation
-# 🐍 Contribution Snake
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<h3 align="center">Wake Up. Code Hard. Build the Future.</h3>
+
 
 ---
 
