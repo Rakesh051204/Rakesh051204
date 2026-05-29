@@ -14,7 +14,6 @@
 # 💫 About Me
 
 - 🌱 Currently learning **Data Structures & Algorithms**
-- 💻 Solved **45+ LeetCode Problems**
 - 🚀 Building my GitHub profile
 - 🎯 Goal: Become a Software Engineer
 
