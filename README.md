@@ -68,70 +68,21 @@
 </p>
 <h1 align="center">⚡ Rakesh Palani ⚡</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+the+Matrix...;AI+%7C+Machine+Learning+%7C+DSA;while(!success)+%7B+code();+learn();+repeat();+%7D" />
-</p>
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Rakesh051204
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-```bash
-> Initializing system...
-> Loading AI modules...
-> Training mindset...
-> Entering the MATRIX...
-```
+```md id="4j6tmt"
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="850"/>
+  <img src="https://raw.githubusercontent.com/Rakesh051204/Rakesh051204/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-```cpp
-class MatrixDeveloper {
-public:
-    string name = "Rakesh";
-    string role = "AI Engineer";
+## 📊 LeetCode Stats
 
-    void execute(){
-        while(!success){
-            learn();
-            code();
-            build();
-            evolve();
-        }
-    }
-};
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Uy99OnEczN?theme=dark&font=Karma&ext=contest" />
+</p>
 ```
-
----
 
 ## ⚡ Tech Arsenal
 
