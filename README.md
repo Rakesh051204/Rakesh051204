@@ -21,7 +21,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
 </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh051204&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
+</p>
 ---
 
 # 🌐 Connect With Me
