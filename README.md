@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">🚀 DSA Enthusiast | Data Scientist | LeetCode Solver</h3>
+<h3 align="center">🚀 DSA Enthusiast | Data Scientist |</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Java+Developer;LeetCode+Problem+Solver;Future+Software+Engineer" />
@@ -26,6 +26,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Rakesh051204&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
 </p>
 ---
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Rakesh051204&theme=matrix&no-frame=true&row=2&column=4" 
+  />
+</p>
 
 # 🌐 Connect With Me
 
