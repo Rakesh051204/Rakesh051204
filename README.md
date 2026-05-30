@@ -69,18 +69,7 @@
 <h1 align="center">⚡ Rakesh Palani ⚡</h1>
 
 ```md id="4j6tmt"
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rakesh051204/Rakesh051204/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-## ⚡ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,tensorflow,pytorch,git,github,vscode" />
-</p>
-
----
 
 ## 🐍 Matrix Snake
 
