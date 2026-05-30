@@ -24,6 +24,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HU7JI1m1eG7mK4Y/giphy.gif" width="500"/>
+</p>
 
 ## 🏆 LeetCode Stats (Proof I suffer daily)
 
