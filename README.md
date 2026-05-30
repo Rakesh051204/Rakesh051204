@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rakesh Palani</h1>
 <h3 align="center">🚀 DSA Enthusiast | Data Scientist | Aspiring Software Engineer</h3>
 
+---
+
+## 🎬 Coding Animation
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;LeetCode+Problem+Solver;Data+Structures+%26+Algorithms;Future+Software+Engineer" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500"/>
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 💻 Practicing problem solving on LeetCode daily  
-- 🚀 Building strong development + coding fundamentals  
-- 🎯 Goal: Become a Software Engineer at a top company  
+- 🌱 Learning Data Structures & Algorithms
+- 💻 Practicing LeetCode daily
+- 🚀 Building strong problem-solving skills
+- 🎯 Goal: Software Engineer at top company
 
 ---
 
@@ -47,7 +51,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh051204&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh051204&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
