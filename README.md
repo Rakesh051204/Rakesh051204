@@ -64,6 +64,24 @@
 </p>
 
 ---
+## 🧠 My Performance (Matiks Profile)
+
+<p align="center">
+  <img src="assets/matiks-score.png" width="450"/>
+</p>
+
+<p align="center">
+  <b>Math • Logic • Memory • Puzzle</b>
+</p>
+
+---
+
+## 📊 Stats Snapshot
+
+- 🧮 Math Score: 969  
+- 🧠 Logic Score: 983  
+- 💾 Memory Score: 979  
+- 🧩 Puzzle Score: 1004  
 
 ## 🌐 Connect With Me (If you dare)
 
