@@ -2,6 +2,9 @@
 
 <h3 align="center">🚀 Aspiring Software Engineer | DSA Survivor | Data Science Explorer (Still Alive)</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HU7JI1m1eG7mK4Y/giphy.gif" width="500"/>
+</p>
 ---
 
 ## 🧠 About Me (Read at your own risk)
