@@ -33,11 +33,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake (Yes, I feed it daily)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rakesh051204/Rakesh051204/output/github-contribution-grid-snake.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/Rakesh051204/Rakesh051204/output/github-contribution-grid-snake.svg" />
 
 ---
 
