@@ -6,6 +6,9 @@
   <img src="https://media.giphy.com/media/l0HU7JI1m1eG7mK4Y/giphy.gif" width="500"/>
 </p>
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=10&no-frame=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
