@@ -72,18 +72,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rakesh051204/Rakesh051204/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Rakesh051204/Rakesh051204/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
----
-
-## 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Uy99OnEczN?theme=dark&font=Karma&ext=contest" />
-</p>
-```
-
 ## ⚡ Tech Arsenal
 
 <p align="center">
