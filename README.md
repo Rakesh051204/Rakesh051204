@@ -4,20 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;LeetCode+Problem+Solver;Future+Software+Engineer" />
 </p>
-leetcode-solutions/
-├── Arrays/
-├── Strings/
-├── Linked List/
-├── Trees/
-├── Dynamic Programming/
-└── README.md
-# LeetCode Solutions
 
-| Problem | Difficulty | Solution |
-|----------|------------|----------|
-| Two Sum | Easy | Java |
-| Add Two Numbers | Medium | Java |
-| Merge K Sorted Lists | Hard | Java |
 <p align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500"/>
 </p>
