@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakesh Palani</h1>
+ <h1 align="center">Hi 👋, I'm Rakesh Palani</h1>
 
 <h3 align="center">🚀 Aspiring Software Engineer | DSA Survivor | Data Science Explorer (Still Alive)</h3>
 
@@ -19,6 +19,7 @@
 - 💻 I solve LeetCode problems so recruiters don’t have to suffer later  
 - 🧩 Currently training my brain to stop crying at DP problems  
 - 🎯 Goal: Join a top product-based company before my RAM gives up  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055FF&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=ffffff" />
 
 ---
 <p align="center">
