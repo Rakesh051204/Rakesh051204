@@ -1,98 +1,84 @@
-<h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">🚀 DSA Enthusiast | Data Scientist |</h3>
+<h1 align="center">Hi 👋, I'm Rakesh Palani</h1>
+<h3 align="center">🚀 DSA Enthusiast | Data Scientist | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;LeetCode+Problem+Solver;Future+Software+Engineer" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;LeetCode+Problem+Solver;Data+Structures+%26+Algorithms;Future+Software+Engineer" />
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 - 🌱 Currently learning **Data Structures & Algorithms**
-- 🚀 Building my GitHub profile
-- 🎯 Goal: Become a Software Engineer
+- 💻 Practicing problem solving on LeetCode daily  
+- 🚀 Building strong development + coding fundamentals  
+- 🎯 Goal: Become a Software Engineer at a top company  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh051204&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
-</p>
 ---
 
+## 🏆 LeetCode Stats
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://leetcode.com/u/Uy99OnEczN/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<p align="left">
-
-<a href="mailto:rakeshpalani2004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Rakesh051204">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Uy99OnEczN?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 🐍 Contribution Snake
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode,mysql" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rakesh051204/Rakesh051204/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh051204&show_icons=true&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh051204&theme=react&hide_border=true" />
 </p>
 
 ---
 
-
----
-
-# 🏆 LeetCode Stats
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Uy99OnEczN?theme=dark&font=Karma&ext=contest"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh051204&theme=react-dark&hide_border=true" />
 </p>
-<h1 align="center">⚡ Rakesh Palani ⚡</h1>
 
-```md id="4j6tmt"
+---
 
-
-## 🐍 Matrix Snake
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,mysql" />
 </p>
 
 ---
 
-<h3 align="center">Wake Up. Code Hard. Build the Future.</h3>
-
-
----
-
-# 📈 Contribution Graph
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh051204&theme=react-dark&hide_border=true"/>
+  <a href="https://leetcode.com/u/Uy99OnEczN/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="mailto:rakeshpalani2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Rakesh051204">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# ✨ Quote
+## ✨ Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -103,3 +89,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rakesh051204&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+<h3 align="center">⚡ Wake Up. Code Hard. Build the Future. ⚡</h3>
