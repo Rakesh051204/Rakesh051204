@@ -67,7 +67,7 @@
 ## 🧠 My Performance (Matiks Profile)
 
 <p align="center">
-  <img src="assets/matiks-score.png" width="450"/>
+  <img src="assets/matiks-score.png" width="450" alt="Matiks Score Dashboard"/>
 </p>
 
 <p align="center">
@@ -78,10 +78,24 @@
 
 ## 📊 Stats Snapshot
 
-- 🧮 Math Score: 969  
-- 🧠 Logic Score: 983  
-- 💾 Memory Score: 979  
-- 🧩 Puzzle Score: 1004  
+<div align="center">
+
+| Skill     | Score |
+|-----------|------:|
+| 🧮 Math    | 969   |
+| 🧠 Logic   | 983   |
+| 💾 Memory  | 979   |
+| 🧩 Puzzle  | 1004  |
+
+</div>
+
+---
+
+## 🚀 Overall Summary
+
+<p align="center">
+  Strong analytical thinking with balanced performance across logic, memory, and problem-solving domains.
+</p>
 
 ## 🌐 Connect With Me (If you dare)
 
