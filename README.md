@@ -1,46 +1,75 @@
- <h1 align="center">Hi 👋, I'm Rakesh Palani</h1>
+<h1 align="center">Hi 👋, I'm Rakesh Palani</h1>
 
 <h3 align="center">🚀 Aspiring Software Engineer | DSA Survivor | Data Science Explorer (Still Alive)</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HU7JI1m1eG7mK4Y/giphy.gif" width="500"/>
-</p>
 ---
+
+<!-- 🌊 WAVE HEADER -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=10&no-frame=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055FF&height=180&section=header&text=Welcome%20to%20My%20Universe&fontSize=30&fontColor=ffffff" />
 </p>
 
+<!-- ⌨️ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=DSA+Enthusiast;Problem+Solver;Data+Science+Explorer;LeetCode+Warrior;Future+Software+Engineer" />
 </p>
-## 🧠 About Me (Read at your own risk)
-
-- ☕ I turn coffee into bugs… and occasionally working code  
-- 💻 I solve LeetCode problems so recruiters don’t have to suffer later  
-- 🧩 Currently training my brain to stop crying at DP problems  
-- 🎯 Goal: Join a top product-based company before my RAM gives up  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055FF&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=ffffff" />
 
 ---
-<p align="center">
-  <img 
 
-## 🎬 Coding in Action (aka “pretending I know what I’m doing”)
+## 🎬 Coding in Action
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
+---
+
+## 🧠 About Me (Read at your own risk)
+
+- ☕ I turn coffee into bugs… and occasionally working code  
+- 💻 I solve LeetCode problems so recruiters don’t suffer later  
+- 🧩 DP problems still make me question life choices  
+- 🎯 Goal: Join a top product-based company before my RAM gives up  
+
+---
+
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <i>“If it works, don’t touch it. If it doesn’t, blame recursion.”</i>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh051204&theme=radical&margin-w=10&no-frame=true" />
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HU7JI1m1eG7mK4Y/giphy.gif" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh051204&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-## 🏆 LeetCode Stats (Proof I suffer daily)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh051204&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph (Mood Tracker)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh051204&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rakesh051204/Rakesh051204/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Uy99OnEczN?theme=dark&font=Karma&ext=contest" />
@@ -48,102 +77,56 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Rakesh051204/Rakesh051204/output/github-contribution-grid-snake.svg" />
-
----
-
-## 📊 GitHub Stats (Numbers that judge me silently)
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh051204&show_icons=true&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh051204&theme=react&hide_border=true" />
-</p>
-
----
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-
-## 📈 Contribution Graph (a.k.a. emotional rollercoaster)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh051204&theme=react-dark&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,git,github,vscode,mysql,linux" />
 </p>
 
 ---
 
-## ⚙️ Tech Stack (a.k.a. my survival kit)
+## 🌐 Animated Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,mysql,linux" />
-</p>
-
----
-## 🧠 My Performance (Matiks Profile)
-
-<p align="center">
-  <img src="assets/matiks-score.png" width="450" alt="Matiks Score Dashboard"/>
-</p>
-
-<p align="center">
-  <b>Math • Logic • Memory • Puzzle</b>
-</p>
-
----
-
-## 📊 Stats Snapshot
-
-<div align="center">
-
-| Skill     | Score |
-|-----------|------:|
-| 🧮 Math    | 969   |
-| 🧠 Logic   | 983   |
-| 💾 Memory  | 979   |
-| 🧩 Puzzle  | 1004  |
-
-</div>
-
----
-
-## 🚀 Overall Summary
-
-<p align="center">
-  Strong analytical thinking with balanced performance across logic, memory, and problem-solving domains.
-</p>
-
-## 🌐 Connect With Me (If you dare)
-
-<p align="center">
-  <a href="https://leetcode.com/u/Uy99OnEczN/">
-    <img src="https://img.shields.io/badge/LeetCode-I'm%20Trying-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-
   <a href="mailto:rakeshpalani2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Yes%20I%20Check%20This-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/Rakesh051204">
-    <img src="https://img.shields.io/badge/GitHub-Code%20Storage%20Unit-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Uy99OnEczN/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
 ---
 
-## 💬 Final Thoughts
+## 💥 Matrix / Neon Divider
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744276-2f7f7d7c-1e3b-4f5f-a8c5-1a9b7d3b3a9e.gif" width="600"/>
+</p>
+
+---
+
+## 💬 Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <b>⚡ Code. Break. Fix. Repeat. (Mostly Break.) ⚡</b>
-</p>
-
 ---
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rakesh051204&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Code. Break. Fix. Repeat. (Mostly Break.) ⚡</b>
 </p>
