@@ -3,6 +3,71 @@
 <h3 align="center">🚀 Aspiring Software Engineer | DSA Survivor | Data Science Explorer (Still Alive)</h3>
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh051204&theme=algolia&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+## 🎖️ GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90"/>
+</p>
+
+<p align="center">
+  <b>🚀 Working towards GitHub Achievements</b>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh051204&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh051204&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh051204&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rakesh051204/Rakesh051204/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌟 Profile Views & Followers
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rakesh051204&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Rakesh051204?label=Followers&style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 <!-- 🌊 WAVE HEADER -->
 <p align="center">
