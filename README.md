@@ -15,49 +15,20 @@
 </p>
 
 ---
-## 🛠️ Tools & Technologies
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/>
 </p>
-
-### 📊 Data Analytics
-- Excel
-- SQL
-- Power BI
-- Tableau
-- Statistics
-- Data Visualization
-
-### 🤖 Data Science & Machine Learning
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Machine Learning
-
-### 💻 Programming
-- Python
-- C++
-- Data Structures & Algorithms
-
-### ☁️ Version Control & Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
-### 🧠 Currently Learning
-- Deep Learning
-- Generative AI
-- MLOps
-- Advanced SQL
-- Data Engineering
-## 🎬 Coding in Action
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
