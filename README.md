@@ -173,6 +173,26 @@
   💾 Memory: <b>979</b> &nbsp; • &nbsp;
   🧮 Math: <b>969</b>
 </p>
+## 🧠 Cognitive Skills Profile
+
+<p align="center">
+  <img src="assets/matiks-score.jpg" width="350" alt="Matiks Score Card"/>
+</p>
+
+<p align="center">
+  <b>Analytical Thinking • Logical Reasoning • Problem Solving</b>
+</p>
+
+| Skill     | Score |
+| --------- | ----- |
+| 🧮 Math   | 969   |
+| 🧠 Logic  | 983   |
+| 💾 Memory | 979   |
+| 🧩 Puzzle | 1004  |
+
+<p align="center">
+  <i>Strong quantitative reasoning and analytical aptitude.</i>
+</p>
 
 
 <p align="center">
