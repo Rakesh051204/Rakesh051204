@@ -3,12 +3,9 @@
 <h3 align="center">🚀 Aspiring Software Engineer | DSA Survivor | Data Science Explorer (Still Alive)</h3>
 
 ---
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh051204&theme=algolia&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh051204&theme=radical&no-frame=true&margin-w=15" />
 </p>
-
 ---
 
 ## 🎖️ GitHub Achievements
