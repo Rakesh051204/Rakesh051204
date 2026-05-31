@@ -15,7 +15,48 @@
 </p>
 
 ---
+## 🛠️ Tools & Technologies
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+
+</p>
+
+### 📊 Data Analytics
+- Excel
+- SQL
+- Power BI
+- Tableau
+- Statistics
+- Data Visualization
+
+### 🤖 Data Science & Machine Learning
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Machine Learning
+
+### 💻 Programming
+- Python
+- C++
+- Data Structures & Algorithms
+
+### ☁️ Version Control & Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+### 🧠 Currently Learning
+- Deep Learning
+- Generative AI
+- MLOps
+- Advanced SQL
+- Data Engineering
 ## 🎬 Coding in Action
 
 <p align="center">
