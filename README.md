@@ -7,20 +7,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Rakesh051204&theme=radical&no-frame=true&margin-w=15" />
 </p>
 ---
-
-## 🎖️ GitHub Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90"/>
-</p>
-
-<p align="center">
-  <b>🚀 Working towards GitHub Achievements</b>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -106,7 +92,18 @@
 - 🎯 Goal: Join a top product-based company before my RAM gives up  
 
 ---
+## 🎖️ GitHub Achievements
 
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90"/>
+</p>
+
+<p align="center">
+  <b>🚀 Working towards GitHub Achievements</b>
+</p>
 ## 🏆 GitHub Achievements
 
 <p align="center">
