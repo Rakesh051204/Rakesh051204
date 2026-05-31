@@ -161,13 +161,19 @@
 
 ---
 
-## 🌌 Matrix Animation
+## 🌟 Featured Achievement
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744276-2f7f7d7c-1e3b-4f5f-a8c5-1a9b7d3b3a9e.gif" width="700"/>
+  <img src="assets/matiks-score.jpg" width="320"/>
 </p>
 
----
+<p align="center">
+  🧠 Logic: <b>983</b> &nbsp; • &nbsp;
+  🧩 Puzzle: <b>1004</b> &nbsp; • &nbsp;
+  💾 Memory: <b>979</b> &nbsp; • &nbsp;
+  🧮 Math: <b>969</b>
+</p>
+
 
 <p align="center">
   <b>⚡ Code • Learn • Build • Repeat ⚡</b>
