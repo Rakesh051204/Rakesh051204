@@ -42,22 +42,17 @@ rakesh = {
 
 ## 🚀 Featured AI Projects
 
-## ⚡ DS Interview Coach — AI-Powered FAANG Interview Simulator
 
-🎯 AI mock interview simulator for Data Scientist roles at Google, Amazon & Microsoft
+## ⚡ FAANG Interview Simulator — AI Mock Interview Platform
 
-| Feature | Details |
-|----------|----------|
-| 🏢 Companies | Google · Amazon · Microsoft · General FAANG |
-| 📚 Topics | ML · Statistics · SQL · Case Study · Python · System Design |
-| 🤖 AI Engine | Claude API generates fresh questions every session |
-| 📊 Feedback | Score /10 · Grade S/A/B/C/D · Strengths · FAANG ideal answer |
-| ⏱ Timer | Live countdown + hint system |
-| 🏆 Analytics | Full session report with performance history |
+🎯 A real-time AI-powered FAANG interview simulator with scoring, timer, and company-based questions.
 
-🔗 [Live Demo](YOUR_VERCEL_URL)
+---
 
-📂 [GitHub Repo](https://github.com/Rakesh051204/Kin-max-ai)
+### 🚀 Live Demo
+👉 https://kin-max-ai.vercel.app
+
+---
 
 ---
 
