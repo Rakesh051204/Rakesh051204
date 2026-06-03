@@ -42,18 +42,12 @@ rakesh = {
 
 ## 🚀 Featured AI Projects
 
-### ⚡ 1. DS Interview Coach — AI-Powered FAANG Interview Simulator
+## ⚡ DS Interview Coach — AI-Powered FAANG Interview Simulator
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Claude-API-FF6B35?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Live-00FF88?style=flat-square"/>
-</p>
-
-> 🎯 **AI mock interview simulator for Data Scientist roles at Google, Amazon & Microsoft**
+🎯 AI mock interview simulator for Data Scientist roles at Google, Amazon & Microsoft
 
 | Feature | Details |
-|---|---|
+|----------|----------|
 | 🏢 Companies | Google · Amazon · Microsoft · General FAANG |
 | 📚 Topics | ML · Statistics · SQL · Case Study · Python · System Design |
 | 🤖 AI Engine | Claude API generates fresh questions every session |
@@ -61,7 +55,9 @@ rakesh = {
 | ⏱ Timer | Live countdown + hint system |
 | 🏆 Analytics | Full session report with performance history |
 
-🔗 **[Live Demo](https://rakeshpalani.dev/ds-coach)** &nbsp;|&nbsp; 📂 **[GitHub Repo](https://github.com/Rakesh051204/ds-interview-coach)**
+🔗 [Live Demo](YOUR_VERCEL_URL)
+
+📂 [GitHub Repo](https://github.com/Rakesh051204/Kin-max-ai)
 
 ---
 
