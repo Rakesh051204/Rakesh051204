@@ -50,7 +50,7 @@ rakesh = {
 ---
 
 ### 🚀 Live Demo
-👉 https://kin-max-ai.vercel.app
+https://github.com/Rakesh051204/Kin-max-ai
 
 ---
 
