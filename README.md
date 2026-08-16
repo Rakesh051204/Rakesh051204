@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=🤖+Building+AI+Tools+with+Claude+API;📊+Data+Scientist+targeting+FAANG;⚡+Prompt+Engineer+%26+LLM+Developer;🎌+Anime+Enthusiast+%26+Otaku+Coder;🔮+Vedic+Roots+%2B+Modern+AI;🚀+From+Dharmapuri+to+FAANG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=🤖+Building+AI+Products+End-to-End;📊+Data+Scientist+targeting+FAANG;⚡+LLM+%26+RAG+Systems+Developer;🎌+Anime+Enthusiast+%26+Otaku+Coder;🔮+Curious+Mind+%2B+Modern+AI;🚀+Shipping+AI+Products%2C+One+at+a+Time" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20AI%20Tools-00FF88?style=for-the-badge&logo=rocket"/>
+  <img src="https://img.shields.io/badge/Status-Building%20AI%20Products-00FF88?style=for-the-badge&logo=rocket"/>
   <img src="https://img.shields.io/badge/Target-FAANG%20Data%20Scientist-00C2FF?style=for-the-badge&logo=target"/>
-  <img src="https://img.shields.io/badge/Based%20In-Tamil%20Nadu%2C%20India-FF6B35?style=for-the-badge&logo=map-pin"/>
+  <img src="https://img.shields.io/badge/Based%20In-India-FF6B35?style=for-the-badge&logo=map-pin"/>
 </p>
 
 ---
@@ -20,81 +20,85 @@
 rakesh = {
     "name"       : "Rakesh Palani",
     "role"       : "Data Scientist & AI Builder",
-    "location"   : "Dharmapuri, Tamil Nadu, India 🌏",
+    "focus"      : ["LLM Applications", "RAG Systems", "AI Products"],
     "target"     : ["Google", "Amazon", "Microsoft", "FAANG"],
-    "building"   : ["AI Tools", "ML Models", "LLM Apps"],
-    "interests"  : ["Data Science", "NLP", "Anime 🎌", "Vedic Astrology 🔮"],
-    "ats_score"  : "84/100 → targeting 90+",
-    "currently"  : "Building AI projects with Claude API ⚡",
-    "fun_fact"   : "I build FAANG prep tools to crack FAANG interviews 😄"
+    "building"   : "Stoic — an AI search & chat engine with live web search + memory",
+    "interests"  : ["Data Science", "NLP", "Anime 🎌", "Competitive Programming"],
+    "leetcode"   : "234+ problems solved",
+    "currently"  : "Shipping full-stack AI products end-to-end ⚡"
 }
 ```
 
 ---
 
-## 🎬 Coding Vibes
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
+### 🧠 Stoic — AI Search & Chat Engine
+> An AI answer engine combining real-time web search, file understanding, and long-term memory to deliver grounded, cited responses.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Groq-LLM%20Inference-FF6B35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Supabase-pgvector-3ECF8E?style=flat-square&logo=supabase"/>
 </p>
 
----
+- Self-hosted web search (SearXNG), streamed SSE responses, and pgvector-backed conversation memory
+- Vision-model file understanding for images, PDFs, DOCX, audio, and video
+- Fully custom frontend and backend, built and deployed from scratch
 
-## 🚀 Featured AI Projects
-
-
-## ⚡ FAANG Interview Simulator — AI Mock Interview Platform
-
-🎯 A real-time AI-powered FAANG interview simulator with scoring, timer, and company-based questions.
+📂 [Frontend](https://github.com/Rakesh051204/Rakesh051204-cloud9-frontend) &nbsp;|&nbsp; 📂 [Backend](https://github.com/Rakesh051204/stoic-ultra-backend)
 
 ---
 
-### 🚀 Live Demo
-https://github.com/Rakesh051204/Kin-max-ai
+### 🔍 CodeZaro — AI Code Review Platform
+> An AI-powered SaaS that performs tiered static analysis and code review using LLMs.
 
----
-
----
-
-### 🎌 2. Anime Quiz AI — AI-Powered Anime Trivia Game
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Claude-API-FF6B35?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Otaku-Level%209000-FF6B35?style=flat-square"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/JWT-Auth-000000?style=flat-square"/>
 </p>
 
-> ⚡ **AI-generated anime trivia — no static questions, every quiz is unique!**
+- LLM-based tiered static analysis with BYOK (bring-your-own-key) encryption
+- JWT authentication, deployed on Render + Vercel
+
+📂 [Frontend](https://github.com/Rakesh051204/codezaro-frontend) &nbsp;|&nbsp; 📂 [Backend](https://github.com/Rakesh051204/codezaro-backend)
+
+---
+
+### ⚡ KinMax AI — FAANG Interview Simulator
+> Real-time AI-powered mock interview platform with scoring, timer, and company-based questions.
+
+📂 [GitHub Repo](https://github.com/Rakesh051204/Kin-max-ai)
+
+---
+
+### 🎌 Anime Quiz AI — AI-Powered Trivia Game
+> AI-generated anime trivia — no static questions, every quiz is unique.
 
 | Feature | Details |
 |---|---|
 | 📺 Categories | Naruto · Dragon Ball Z · One Piece · AOT · Demon Slayer · General |
 | 💪 Difficulty | Easy 🟢 · Medium 🟡 · Hard 🔴 |
 | 🏆 Rank System | Academy Student → Genin → Chunin → ANBU Elite → Hokage Level! |
-| 💡 Explanations | AI-written answer explanations after each question |
 | 🎨 Design | Anime-style dark UI with particle effects |
 
-🔗 **[Live Demo](https://rakeshpalani.dev/anime-quiz)** &nbsp;|&nbsp; 📂 **[GitHub Repo](https://github.com/Rakesh051204/anime-quiz-ai)**
+📂 [GitHub Repo](https://github.com/Rakesh051204/anime-quiz-ai)
 
 ---
 
-### 📄 3. AI Resume Analyzer
+### 📄 AI Resume Analyzer
+> Resume parsing + ATS score prediction using NLP & Machine Learning.
 
-> 🧠 Resume parsing + ATS Score prediction using NLP & Machine Learning
-
-<img src="https://img.shields.io/badge/NLP-Machine%20Learning-00C2FF?style=flat-square"/> <img src="https://img.shields.io/badge/ATS-Score%20Prediction-FF6B35?style=flat-square"/>
-
-📂 **[GitHub Repo](https://github.com/Rakesh051204/ai-resume-analyzer)**
+📂 [GitHub Repo](https://github.com/Rakesh051204/ai-resume-analyzer)
 
 ---
 
-### 📊 4. Student Performance Predictor
+### 📊 Student Performance Predictor
+> ML model for predictive analytics and data visualization.
 
-> 📈 ML model for predictive analytics + data visualization
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Predictive%20Analytics-7F00FF?style=flat-square"/>
-
-📂 **[GitHub Repo](https://github.com/Rakesh051204/student-performance-predictor)**
+📂 [GitHub Repo](https://github.com/Rakesh051204/student-performance-predictor)
 
 ---
 
@@ -107,11 +111,11 @@ https://github.com/Rakesh051204/Kin-max-ai
 ### 🤖 AI / ML Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude%20API-Anthropic-FF6B35?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-LLM-00FF88?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Groq-LLM%20Inference-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude%20API-Anthropic-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Vector%20Search-00FF88?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn"/>
   <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/NLP-Text%20Processing-00C2FF?style=for-the-badge"/>
 </p>
 
 ### 📊 Data Science Stack
@@ -120,7 +124,7 @@ https://github.com/Rakesh051204/Kin-max-ai
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Supabase-pgvector-3ECF8E?style=for-the-badge&logo=supabase"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
@@ -155,37 +159,6 @@ https://github.com/Rakesh051204/Kin-max-ai
 
 ---
 
-## 🧠 Cognitive Skills Profile
-
-<p align="center">
-  <img src="assets/matiks-score.jpg" width="350" alt="Matiks Score Card"/>
-</p>
-
-| Skill | Score | Level |
-|---|---|---|
-| 🧠 Logic | 983 | ████████████ Elite |
-| 🧩 Puzzle | 1004 | ████████████ Elite |
-| 💾 Memory | 979 | ███████████░ Expert |
-| 🧮 Math | 969 | ███████████░ Expert |
-
-<p align="center">
-  <i>Strong quantitative reasoning · Analytical aptitude · Problem-solving mindset</i>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖%20AI%20Builder-Claude%20API%20Projects-00FF88?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📄%20ATS%20Score-84%2F100-FF6B35?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎯%20Target-FAANG%20DS%20Role-00C2FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🧠%20LeetCode-Consistent%20Solver-FFA116?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎌%20Otaku-Level%209000-FF6B35?style=for-the-badge"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -213,25 +186,9 @@ https://github.com/Rakesh051204/Kin-max-ai
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rakesh051204/Rakesh051204/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 💬 Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
 <p align="center">
   <b>⚡ Code · Learn · Build AI · Repeat ⚡</b><br/>
-  <i>From Dharmapuri to FAANG — one project at a time 🚀</i>
+  <i>Shipping AI products, one at a time 🚀</i>
 </p>
 
 <p align="center">
