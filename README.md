@@ -3,7 +3,7 @@
 # Rakesh Palani  
 ### Data Scientist · AI/ML Engineer · Generative AI
 
-I build machine learning systems, AI applications, and data products that turn data into useful software.
+I design and ship AI products: from data pipelines and ML models to LLM apps and RAG systems.
 
 <br>
 
@@ -12,68 +12,51 @@ I build machine learning systems, AI applications, and data products that turn d
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshpalani2004@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Uy99OnEczN/)
 
+**Open to:** Remote AI/ML roles · LLM Engineering · Data Science · MLOps
+
 </div>
 
 ---
 
 ## 👋 About Me
 
-I’m a **Data Scientist and AI/ML Engineer** focused on building real products with modern AI.
+I’m a **Data Scientist and AI/ML Engineer** focused on building production‑grade AI systems.
 
-I enjoy working on:
+I care about:
 
-- Machine Learning & predictive modeling  
-- Generative AI & LLM applications  
-- RAG, vector search, and retrieval systems  
-- Data analysis, SQL, and data pipelines  
-- AI-powered developer tools and experiments  
+- Turning messy data into reliable features and models  
+- Building LLM applications with RAG, tools, and memory  
+- Designing systems that are measurable, testable, and deployable  
+- Shipping fast, then iterating based on real usage  
 
-My workflow:
+My loop:
 
 ```text
-Data → Understand → Model → Evaluate → Deploy → Learn
+Problem → Data → Model/LLM → Evaluate → Deploy → Measure → Improve
 ```
 
 ---
 
-## 🔬 What I’m Building
+## 🧠 Flagship AI Products
 
-### 🧠 Flagship Projects
+### 🔎 Stoic — AI Search + Chat
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔎 Stoic</h3>
-      <p><strong>AI search + chat</strong></p>
-      <p>A personal AI search engine combining web search, file understanding, RAG, and vector memory.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-        <img src="https://img.shields.io/badge/Groq-FF6B35?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase"/>
-      </p>
-      <p>
-        <a href="https://cloud9-frontend.vercel.app"><img src="https://img.shields.io/badge/Live-00C2FF?style=flat-square"/></a>
-        <a href="https://github.com/Rakesh051204/Rakesh051204-cloud9-frontend"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github"/></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 CodeZaro</h3>
-      <p><strong>AI code review</strong></p>
-      <p>An AI-assisted code analysis platform that explains issues and suggests improvements.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-        <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square"/>
-      </p>
-      <p>
-        <a href="https://github.com/Rakesh051204/codezaro-frontend"><img src="https://img.shields.io/badge/Frontend-61DAFB?style=flat-square&logo=github"/></a>
-        <a href="https://github.com/Rakesh051204/codezaro-backend"><img src="https://img.shields.io/badge/Backend-009688?style=flat-square&logo=github"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+A personal AI search engine that combines web search, file understanding, RAG, and vector memory.
+
+- **Stack:** React · Node.js · Groq · Supabase · pgvector  
+- **Key ideas:** Hybrid retrieval (web + files), RAG over documents, conversational interface  
+- **Live:** [cloud9-frontend.vercel.app](https://cloud9-frontend.vercel.app)  
+- **Code:** [Frontend](https://github.com/Rakesh051204/Rakesh051204-cloud9-frontend)
+
+---
+
+### 🧠 CodeZaro — AI Code Review
+
+An AI‑assisted code analysis platform that explains issues and suggests concrete improvements.
+
+- **Stack:** Python · FastAPI · React · LLMs  
+- **Key ideas:** Static analysis + LLM reasoning, actionable feedback, developer‑in‑the‑loop UX  
+- **Code:** [Frontend](https://github.com/Rakesh051204/codezaro-frontend) · [Backend](https://github.com/Rakesh051204/codezaro-backend)
 
 ---
 
@@ -81,60 +64,44 @@ Data → Understand → Model → Evaluate → Deploy → Learn
 
 ### 🎬 IMDb Movie Analytics
 
-A SQL + Power BI analytics project exploring movie ratings, genres, regions, and more across 25,000+ records.
+End‑to‑end analytics on 25,000+ movies: ratings, genres, regions, and more.
 
-```text
-Raw Data
-   ↓
-SQL
-   ↓
-Cleaning & Transformation
-   ↓
-Power BI
-   ↓
-Interactive Dashboard
-   ↓
-Insights
-```
-
-**Tools:** SQL · Power BI · Data Analysis
+- **Pipeline:** Raw Data → SQL → Cleaning/Transformation → Power BI → Insights  
+- **Tools:** SQL · Power BI · Data Analysis  
 
 ---
 
 ### ⚖️ Imbalanced Dataset Prediction
 
-Machine learning project focused on classification with highly imbalanced data.
+Classification project focused on highly imbalanced data.
 
-**Techniques:** SMOTE · Oversampling · Undersampling · Scikit-learn
-
-```text
-EDA → Imbalance Detection → Resampling → Training → Evaluation
-```
+- **Techniques:** SMOTE · Oversampling · Undersampling · Scikit-learn  
+- **Flow:** EDA → Imbalance Detection → Resampling → Training → Evaluation  
 
 ---
 
 ### 🧪 Other Experiments
 
-| Project               | What I explored                              |
-|-----------------------|----------------------------------------------|
-| AI Resume Analyzer    | NLP + ATS analysis                           |
-| Student Predictor     | Machine learning prediction                  |
-| Anime Quiz AI         | AI-generated quiz application                |
-| KinMax AI             | AI interview preparation                     |
+| Project               | Focus                                      |
+|-----------------------|--------------------------------------------|
+| AI Resume Analyzer    | NLP + ATS‑style parsing & scoring          |
+| Student Predictor     | Supervised ML for outcome prediction       |
+| Anime Quiz AI         | LLM‑generated quiz questions & answers     |
+| KinMax AI             | AI‑driven interview preparation            |
 
-More experiments live in my repositories → [GitHub](https://github.com/Rakesh051204)
+More experiments: [GitHub Repositories](https://github.com/Rakesh051204)
 
 ---
 
 ## 🧰 Toolbox
 
-| Category          | Tools                                                                 |
-|-------------------|-----------------------------------------------------------------------|
-| Data              | Python · SQL · Pandas · NumPy · Matplotlib                           |
-| Machine Learning  | Scikit-learn · Feature Engineering · Model Evaluation · Imbalanced Learning |
-| Generative AI     | LLMs · RAG · Vector Search · Prompt Engineering · Groq · Claude API  |
-| Analytics         | Power BI · Tableau · Excel                                           |
-| Engineering       | Git · GitHub · FastAPI · React · Node.js · Supabase · pgvector       |
+| Area              | Tools & Technologies                                                                 |
+|-------------------|---------------------------------------------------------------------------------------|
+| Data              | Python · SQL · Pandas · NumPy · Matplotlib                                           |
+| Machine Learning  | Scikit-learn · Feature Engineering · Model Evaluation · Imbalanced Learning          |
+| Generative AI     | LLMs · RAG · Vector Search · Prompt Engineering · Groq · Claude API                 |
+| Analytics         | Power BI · Tableau · Excel                                                           |
+| Engineering       | Git · GitHub · FastAPI · React · Node.js · Supabase · pgvector                       |
 
 ---
 
@@ -165,7 +132,7 @@ More experiments live in my repositories → [GitHub](https://github.com/Rakesh0
 
 ---
 
-## 🎯 Currently Exploring
+## 🎯 Focus Areas
 
 ```text
 ┌─────────────────────────────────────────────┐
@@ -174,14 +141,12 @@ More experiments live in my repositories → [GitHub](https://github.com/Rakesh0
 │  RAG / Vector Search       ████████░░       │
 │  Machine Learning          █████████░       │
 │  Data Analytics            ██████████       │
-│  Production AI             ███████░░░       │
+│  Production AI / MLOps     ███████░░░       │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
 
-I’m particularly interested in the intersection of:
-
-**Data × Machine Learning × LLMs × Product**
+Core interest: **Data × Machine Learning × LLMs × Product**
 
 ---
 
@@ -190,19 +155,18 @@ I’m particularly interested in the intersection of:
 ```python
 class Rakesh:
 
-    role = "Data Scientist"
+    role = "Data Scientist · AI/ML Engineer"
 
     interests = [
         "Machine Learning",
         "Generative AI",
-        "Data Science",
         "LLM Applications",
-        "RAG"
+        "RAG & Vector Search",
+        "Production AI"
     ]
 
     philosophy = "Build → Measure → Improve"
-
-    goal = "Build useful AI"
+    goal = "Ship AI products people actually use"
 ```
 
 ---
@@ -217,6 +181,6 @@ class Rakesh:
 
 <br>
 
-**Build useful things. Learn constantly. Ship often.**
+**Build useful AI. Ship fast. Learn in public.**
 
 </div>
