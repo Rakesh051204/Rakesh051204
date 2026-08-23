@@ -1,482 +1,252 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,40:00C2FF,70:7F00FF,100:FF6B35&height=260&section=header&text=⚡%20RAKESH%20PALANI%20⚡&fontSize=50&fontColor=ffffff&animation=twinkling&desc=DATA%20SCIENTIST%20%7C%20AI%2FML%20ENGINEER%20%7C%20AI%20BUILDER&descSize=21&descAlignY=76"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=800&color=00FF88&center=true&vCenter=true&width=950&lines=🧠+Building+AI+%26+Machine+Learning+Products;📊+Turning+Data+Into+Intelligence;🤖+RAG+%7C+LLMs+%7C+Machine+Learning;📈+Analytics+%7C+Power+BI+%7C+SQL;⚡+Shipping+Projects+Every+Week;🎮+Coding+Like+It's+An+RPG;🚀+Mission%3A+Build+World-Class+AI+Systems"/>
-</p>
+# ⚡ RAKESH PALANI ⚡
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ROLE-DATA%20SCIENTIST-00FF88?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-00C2FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SPECIALTY-RAG%20%2B%20LLMs-7F00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-FF6B35?style=for-the-badge"/>
-</p>
+### DATA SCIENTIST · AI/ML ENGINEER · AI BUILDER
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=900&lines=Building+AI+%26+Machine+Learning+Products;Turning+Data+Into+Intelligence;Python+%7C+SQL+%7C+Machine+Learning;RAG+%7C+LLMs+%7C+AI+Applications;Power+BI+%7C+Data+Analytics;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Repeat" />
+
+<br>
+
+<img src="https://img.shields.io/badge/DATA%20SCIENTIST-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML%20ENGINEER-00C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20BUILDER-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20%2B%20LLMs-FF6B35?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+<br>
+
+<b>DATA → INTELLIGENCE → PRODUCT</b>
+
+</div>
 
 ---
 
-# 👨‍💻 ABOUT THE PLAYER
+## 🧠 ABOUT ME
 
-<table>
-<tr>
-<td width="55%">
+I am a **Data Scientist and AI/ML Engineer** focused on building practical machine learning, analytics, and Generative AI applications.
+
+I enjoy working across the complete data-to-AI workflow:
 
 ```text
-╔══════════════════════════════════════╗
-║           PLAYER PROFILE             ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  👨‍💻 RAKESH PALANI                   ║
-║                                      ║
-║  🧠 Class       : Data Scientist     ║
-║  🤖 Specialty   : AI / ML            ║
-║  🔬 Focus       : RAG + LLMs         ║
-║  📊 Analytics   : Power BI + SQL     ║
-║  🐍 Language    : Python             ║
-║  ⚔️ Mode        : BUILD              ║
-║  🎯 Mission     : AI / Data Science  ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+DATA
+  ↓
+CLEAN
+  ↓
+ANALYZE
+  ↓
+MODEL
+  ↓
+EVALUATE
+  ↓
+DEPLOY
+  ↓
+AI PRODUCT
+🚀 FEATURED PROJECTS
+🔎 Stoic — AI Search & Chat Engine
 
-</td>
+Real-time AI search, file understanding, RAG and vector memory.
 
-<td width="45%" align="center">
+Built with: React · Vite · Node.js · Express · Groq · Supabase · pgvector
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+🔎 Web Search
+     +
+📄 File Understanding
+     +
+🧠 RAG
+     +
+🗃️ Vector Memory
+     +
+🤖 LLM
+     ↓
+   AI CHAT
+<div align="center"> <a href="https://cloud9-frontend.vercel.app"> <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00FF88?style=for-the-badge"/> </a> <a href="https://github.com/Rakesh051204/Rakesh051204-cloud9-frontend"> <img src="https://img.shields.io/badge/💻%20FRONTEND-181717?style=for-the-badge&logo=github"/> </a> <a href="https://github.com/Rakesh051204/stoic-ultra-backend"> <img src="https://img.shields.io/badge/⚙️%20BACKEND-181717?style=for-the-badge&logo=github"/> </a> </div>
+🔍 CodeZaro — AI Code Review SaaS
 
-<br/>
+AI-powered code analysis and review platform.
 
-<sub>👨‍💻 Building. Debugging. Learning. Shipping.</sub>
+Built with: Python · FastAPI · React · JWT · LLMs
 
-</td>
-</tr>
-</table>
+CODE
+ ↓
+STATIC ANALYSIS
+ ↓
+LLM REVIEW
+ ↓
+PROBLEMS
+ ↓
+EXPLANATION
+ ↓
+IMPROVEMENT
+<div align="center"> <a href="https://github.com/Rakesh051204/codezaro-frontend"> <img src="https://img.shields.io/badge/FRONTEND-61DAFB?style=for-the-badge&logo=github&logoColor=black"/> </a> <a href="https://github.com/Rakesh051204/codezaro-backend"> <img src="https://img.shields.io/badge/BACKEND-00FF88?style=for-the-badge&logo=github&logoColor=black"/> </a> </div>
+📄 AI Resume Analyzer
 
-> **“Build something useful. Make it intelligent. Ship it.”**
+NLP-powered resume analysis with ATS scoring and skill detection.
 
----
+Technology: Python · NLP · Machine Learning
 
-# 🎮 PLAYER STATS
+🔗 View Repository
 
-| Attribute            | Level                                |
-| -------------------- | ------------------------------------ |
-| 🧠 Main Class        | **Data Scientist**                   |
-| 🤖 AI Specialization | **AI / ML / LLM Applications**       |
-| 🔎 Advanced Focus    | **RAG · Vector Search · LLMs**       |
-| 📊 Analytics         | **SQL · Power BI · Tableau · Excel** |
-| 🐍 Primary Language  | **Python**                           |
-| 🧪 ML                | **Scikit-learn · Pandas · NumPy**    |
-| 🏗️ Product Focus    | **AI-powered applications**          |
-| 🎯 Current Quest     | **Advanced AI & Data Science**       |
+🎓 Student Performance Predictor
 
----
+Machine learning project for predicting student performance.
 
-# 🧠 AI / ML LOADOUT
+Technology: Python · Pandas · Scikit-learn
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+🔗 View Repository
 
-<p align="center">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-00FF88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Search-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-7F00FF?style=for-the-badge"/>
-</p>
+🎮 LIVE GAME ARCADE
 
-### 📊 Analytics Arsenal
+Take a break from coding. Play something. 🎮
 
-<p align="center">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-00C2FF?style=for-the-badge"/>
-</p>
+<table> <tr> <td align="center" width="33%">
+🎌 ANIME QUIZ AI
 
----
+AI-generated anime trivia
 
-# 🎮 🔴 LIVE GAME ARCADE
-
-> **These are real playable projects — click a game and enter the arena.**
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-## 🎌 ANIME QUIZ AI
-
-<img src="https://img.shields.io/badge/AI%20TRIVIA-FF6B35?style=for-the-badge"/>
-
-🧠 AI-generated questions
 🍥 Naruto
 🐉 Dragon Ball Z
-⚔️ Attack on Titan
+⚔️ AOT
 🔥 Demon Slayer
 
-**Difficulty:** Dynamic
-**Mode:** Solo
-**Questions:** AI Generated
+<a href="https://anime-quiz-ai.vercel.app"> <img src="https://img.shields.io/badge/▶%20PLAY%20NOW-FF6B35?style=for-the-badge&labelColor=101010"/> </a> </td> <td align="center" width="33%">
+🏆 KINMAX AI
 
-<br/>
-
-<a href="https://anime-quiz-ai.vercel.app">
-
-<img src="https://img.shields.io/badge/▶%20PLAY%20NOW-FF6B35?style=for-the-badge&labelColor=111111"/>
-
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-## 🏆 KINMAX AI
-
-<img src="https://img.shields.io/badge/AI%20INTERVIEW-00FF88?style=for-the-badge"/>
+AI Interview Battle
 
 🧠 DSA
-💻 Technical Questions
-⏱️ Timed Challenges
-🏢 Company Questions
-📊 Live Scoring
+💻 Technical
+⏱️ Timer
+📊 Scoring
+
+<a href="https://kinmax-ai.vercel.app"> <img src="https://img.shields.io/badge/▶%20PLAY%20NOW-00FF88?style=for-the-badge&labelColor=101010"/> </a> </td> <td align="center" width="33%">
+♟️ CHESS
+
+Strategy & Tactics
+
+♟️ Computer
+⚔️ PvP
+🏆 Rating
+
+<a href="https://lichess.org/"> <img src="https://img.shields.io/badge/▶%20PLAY%20CHESS-00C2FF?style=for-the-badge&labelColor=101010"/> </a> </td> </tr> <tr> <td align="center">
+🧩 SUDOKU
+
+Brain Training
+
+🔢 Logic
+🧠 Focus
+⚡ Challenges
+
+<a href="https://sudoku.com/"> <img src="https://img.shields.io/badge/▶%20PLAY%20SUDOKU-8A2BE2?style=for-the-badge&labelColor=101010"/> </a> </td> <td align="center">
+🔢 2048
+
+Number Strategy
+
+2 → 4 → 8 → 16
+→ 256 → 1024 → 2048
+
+<a href="https://play2048.co/"> <img src="https://img.shields.io/badge/▶%20PLAY%202048-00FF88?style=for-the-badge&labelColor=101010"/> </a> </td> <td align="center">
+👾 MATH INVADERS
+
+Math Arcade
+
+➕ ➖ ✖️ ➗
+Speed + Accuracy
+
+<a href="https://www.coolmathgames.com/0-math-invaders"> <img src="https://img.shields.io/badge/▶%20PLAY%20MATH-FF6B35?style=for-the-badge&labelColor=101010"/> </a> </td> </tr> </table>
+📊 POWER BI DATA LAB
+🎬 IMDb Movie Analytics Dashboard
+
+25,000+ records · SQL · Power BI
+
+                    MOVIE DATA
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │     SQL     │
+                 │ JOIN / CLEAN│
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │   POWER BI  │
+                 └──────┬──────┘
+                        │
+            ┌───────────┼───────────┐
+            ▼           ▼           ▼
+          RATINGS     GENRES      REGIONS
+            │           │           │
+            └───────────┼───────────┘
+                        ▼
+                    INSIGHTS
+<div align="center"> <a href="https://app.powerbi.com/"> <img src="https://img.shields.io/badge/📊%20OPEN%20POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </a> </div>
+🧪 MACHINE LEARNING LAB
+⚖️ Handling Imbalanced Dataset
+
+Fraud / insurance claim prediction using imbalanced-data techniques.
+
+Techniques
+
+SMOTE · Oversampling · Undersampling · Scikit-learn · Pandas
+
+DATASET
+   ↓
+EXPLORATION
+   ↓
+CLASS IMBALANCE
+   ↓
+SMOTE / SAMPLING
+   ↓
+MODEL TRAINING
+   ↓
+MODEL EVALUATION
+   ↓
+PREDICTION
+📈 GITHUB COMMAND CENTER
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakesh051204&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF88&icon_color=00C2FF&text_color=FFFFFF"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh051204&layout=compact&theme=github_dark&hide_border=true&title_color=00FF88&text_color=FFFFFF"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh051204&theme=github-dark-blue&hide_border=true&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh051204&bg_color=0D1117&color=00FF88&line=00C2FF&point=FF6B35&area=true&hide_border=true"/> </div>
+🐍 CONTRIBUTION GRAPH
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </div>
+💻 CODING MODE
+<div align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/> <br>
+LEARN → EXPERIMENT → BUILD → SHIP
+</div>
+🏆 ACHIEVEMENTS
+<div align="center"> <img src="https://img.shields.io/badge/🎓%20BCA-Vysya%20College-00C2FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/🏆%20BEST%20PROJECT-Final%20Year-FF6B35?style=for-the-badge"/> <img src="https://img.shields.io/badge/💻%20TOP%205%25-SQL%20HackerRank-00FF88?style=for-the-badge"/> <img src="https://img.shields.io/badge/📜%20META-Data%20Analytics-4285F4?style=for-the-badge"/> <img src="https://img.shields.io/badge/🧠%20NVIDIA-Machine%20Learning-76B900?style=for-the-badge"/> </div>
+🧩 LEETCODE ARENA
+<div align="center"> <img src="https://leetcard.jacoblin.cool/Uy99OnEczN?theme=dark&font=Karma&ext=contest"/> </div>
+🎯 CURRENT FOCUS
+┌─────────────────────────────────────────────────────────┐
+│                    CURRENT FOCUS                        │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  🧠 Machine Learning             █████████░  90%        │
+│  🤖 LLM / RAG Engineering        █████████░  90%        │
+│  🔎 AI Applications              █████████░  90%        │
+│  📊 Data Analytics               ██████████  95%        │
+│  📈 Power BI                     ████████░░  80%        │
+│  ⚙️ Production ML                ███████░░░  70%        │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+🌐 CONNECT
+<div align="center"> <a href="mailto:rakeshpalani2004@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Rakesh051204"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://leetcode.com/u/Uy99OnEczN/"> <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> <a href="https://rakeshpalani.dev"> <img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/> </a>
+
+<br><br>
 
-**Difficulty:** Easy → Hard
-**Mode:** Interview
-
-<br/>
-
-<a href="https://kinmax-ai.vercel.app">
-
-<img src="https://img.shields.io/badge/▶%20PLAY%20NOW-00FF88?style=for-the-badge&labelColor=111111"/>
-
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🕹️ GAME SERVER
-
-### 🔥 More playable games planned
-
-<table>
-<tr>
-<td align="center">🧠<br/><b>ML BOSS</b><br/><sub>Choose the right ML algorithm</sub></td>
-<td align="center">⚔️<br/><b>DSA ARENA</b><br/><sub>Beat coding challenges</sub></td>
-<td align="center">📊<br/><b>DATA DETECTIVE</b><br/><sub>Find hidden patterns</sub></td>
-</tr>
-
-<tr>
-<td align="center">🐍<br/><b>PYTHON SNAKE</b><br/><sub>Classic coding arcade</sub></td>
-<td align="center">💾<br/><b>SQL ARENA</b><br/><sub>Query battle</sub></td>
-<td align="center">🤖<br/><b>AI BOSS FIGHT</b><br/><sub>Battle an AI agent</sub></td>
-</tr>
-</table>
-
-```text
-╔══════════════════════════════════════════════╗
-║              🎮 GAME PROGRESSION             ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  🟢 LIVE                                      ║
-║      ├── 🎌 Anime Quiz AI                    ║
-║      └── 🏆 KinMax AI                        ║
-║                                              ║
-║  🟡 NEXT                                      ║
-║      ├── 🧠 ML Boss Fight                    ║
-║      ├── ⚔️ DSA Arena                        ║
-║      ├── 📊 Data Detective                   ║
-║      └── 💾 SQL Arena                        ║
-║                                              ║
-║  🔴 FINAL BOSS                                ║
-║      └── 🤖 AI Agent Battle                  ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-# 🧠 FEATURED AI PROJECTS
-
-## 🔎 Stoic — AI Search & Chat Engine
-
-> **Search → Understand → Retrieve → Answer**
-
-Real-time AI search and chat system with file understanding, RAG and vector memory.
-
-```text
-🔎 Real-time Search
-📄 File Understanding
-🧠 RAG Pipeline
-🗃️ Vector Memory
-💬 AI Chat
-⚡ LLM Inference
-```
-
-`React` `Vite` `Node.js` `Express` `Groq` `Supabase` `pgvector`
-
-🔗 **[LIVE DEMO](https://cloud9-frontend.vercel.app)**
-🔗 **[FRONTEND](https://github.com/Rakesh051204/Rakesh051204-cloud9-frontend)**
-🔗 **[BACKEND](https://github.com/Rakesh051204/stoic-ultra-backend)**
-
----
-
-## 🔍 CodeZaro — AI Code Review SaaS
-
-> **Code in → AI analysis → Better code**
-
-* 🤖 LLM-powered review
-* 🔐 BYOK encryption
-* 🧪 Static analysis
-* 📊 Structured feedback
-* 🔑 JWT authentication
-
-`Python` `FastAPI` `React` `LLMs` `JWT`
-
-🔗 **[FRONTEND](https://github.com/Rakesh051204/codezaro-frontend)**
-🔗 **[BACKEND](https://github.com/Rakesh051204/codezaro-backend)**
-
----
-
-## 📄 AI Resume Analyzer
-
-NLP-powered resume analysis and ATS-style scoring.
-
-🔗 **[VIEW PROJECT](https://github.com/Rakesh051204/ai-resume-analyzer)**
-
----
-
-## 🎓 Student Performance Predictor
-
-Machine-learning model for student performance prediction.
-
-🔗 **[VIEW PROJECT](https://github.com/Rakesh051204/student-performance-predictor)**
-
----
-
-# 📊 LIVE POWER BI / DATA ANALYTICS
-
-> **Data isn't just numbers. It's a story waiting to be visualized.**
-
-<p align="center">
-<img src="https://img.shields.io/badge/POWER%20BI-LIVE%20DASHBOARD-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-### 🎬 IMDb Movie Analytics Dashboard
-
-**25,000+ movie records · SQL · Power BI · Data Visualization**
-
-```text
-                 🎬 MOVIE ANALYTICS
-
-        ┌─────────────────────────────┐
-        │       MOVIE DATABASE        │
-        ├─────────────────────────────┤
-        │                             │
-        │  📈 Ratings                 │
-        │  🎭 Genres                  │
-        │  🌍 Regions                 │
-        │  ⭐ Popularity              │
-        │  💰 Revenue                 │
-        │  📊 Trends                  │
-        │                             │
-        └─────────────────────────────┘
-                    │
-                    ▼
-              📊 POWER BI
-                    │
-                    ▼
-           💡 BUSINESS INSIGHTS
-```
-
-### 🔴 LIVE DASHBOARD
-
-Replace the URL below with your **Power BI Public / Publish-to-web report URL**:
-
-```text
-https://app.powerbi.com/view?r=YOUR_REPORT_ID
-```
-
-<p align="center">
-
-<a href="https://app.powerbi.com/">
-
-<img src="https://img.shields.io/badge/📊%20OPEN%20LIVE%20POWER%20BI-DASHBOARD-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</a>
-
-</p>
-
-> ⚠️ GitHub README generally won't render an interactive Power BI iframe directly. The reliable approach is a **dashboard preview image → LIVE DASHBOARD button**.
-
----
-
-# 🐍 LIVE CONTRIBUTION SYSTEM
-
-## 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh051204&bg_color=0D1117&color=00FF88&line=00C2FF&point=FF6B35&area=true&hide_border=true"/>
-</p>
-
-## 🐍 Contribution Snake
-
-After enabling the GitHub Action in your profile repository:
-
-```html
-<p align="center">
-  <img src="./output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-</p>
-```
-
-This gives you the animated **snake eating your contribution graph**.
-
----
-
-# 📈 LIVE GITHUB DASHBOARD
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rakesh051204&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh051204&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh051204&theme=chartreuse-dark&hide_border=true&ring=00FF88&fire=FF6B35&currStreakLabel=00C2FF"/>
-
-</p>
-
----
-
-# 🧑‍💻 WORKSTATION MODE
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
-
-</p>
-
-<p align="center">
-<sub>⚡ One more model. One more experiment. One more deployment.</sub>
-</p>
-
----
-
-# 🧪 DATA SCIENCE LAB
-
-### ⚖️ Imbalanced Dataset
-
-`SMOTE` · `Oversampling` · `Undersampling` · `Scikit-learn` · `Pandas`
-
-Fraud / insurance claim prediction with techniques designed for imbalanced datasets.
-
----
-
-### 🎬 IMDb Analytics
-
-`SQL` · `Joins` · `Power BI` · `Data Cleaning` · `Visualization`
-
-Analyzed **25,000+ movie records** across multiple regions.
-
----
-
-# 🧩 LEETCODE ARENA
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Uy99OnEczN?theme=dark&font=Karma&ext=contest"/>
-</p>
-
----
-
-# 🏆 ACHIEVEMENT UNLOCKED
-
-```text
-╔══════════════════════════════════════════════╗
-║               🏆 ACHIEVEMENTS                ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  🎓 BCA — Vysya College, Salem              ║
-║  🧠 Data Science & Data Analytics            ║
-║  🏆 Best Final Year Project                  ║
-║  💻 Top 5% — HackerRank SQL Challenge        ║
-║  📜 Meta Data Analytics — Coursera           ║
-║  🧠 NVIDIA Machine Learning Certification    ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-# ⚡ CURRENT QUESTS
-
-```text
-LEVEL 99 DATA SCIENTIST
-
-████████████████████████████░░  90%
-
-ACTIVE MISSIONS
-
-[✓] Build AI applications
-[✓] Build ML projects
-[✓] Learn RAG systems
-[✓] Build analytics dashboards
-[✓] Ship playable AI products
-[ ] Build advanced AI agents
-[ ] Master production ML
-[ ] Defeat FINAL BOSS
-```
-
----
-
-# 🌐 CONNECT WITH ME
-
-<p align="center">
-
-<a href="mailto:rakeshpalani2004@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Rakesh051204">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Uy99OnEczN/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://rakeshpalani.dev">
-<img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-# 👀 PROFILE ACTIVITY
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Rakesh051204&label=PROFILE%20VIEWS&color=00FF88&style=for-the-badge"/>
-</p>
 
----
+<br><br>
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=DATA+%E2%86%92+AI+%E2%86%92+BUILD+%E2%86%92+SHIP+%E2%86%92+REPEAT;KEEP+LEARNING.+KEEP+BUILDING.+%F0%9F%9A%80"/> </div> ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00FF88&center=true&vCenter=true&width=700&lines=Data+%E2%86%92+Intelligence+%E2%86%92+Product;Code+%E2%80%A2+Build+%E2%80%A2+Ship+%E2%80%A2+Repeat;The+next+level+is+always+one+project+away+%F0%9F%9A%80"/>
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C2FF,100:00FF88&height=160&section=footer"/>
-</p>
+This is one complete README from the first line to the last line—paste the entire block into your GitHub profile README.md.
