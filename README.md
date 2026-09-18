@@ -1,40 +1,38 @@
 # Rakesh Palani
 
-AI/ML Engineer. I build things, ship them, and see if they break.
+Data Scientist · AI/ML Engineer
 
 [github.com/Rakesh051204](https://github.com/Rakesh051204) · [rakeshpalani.dev](https://rakeshpalani.dev) · [rakeshpalani2004@gmail.com](mailto:rakeshpalani2004@gmail.com)
 
 ---
 
-## Now
+## What I do
 
-Building **Stoic** — an AI search/answer engine from scratch (React, Node, Groq, Supabase/pgvector, self-hosted SearXNG). RAG, SSE streaming, multi-modal routing, OAuth connectors, an eval pipeline with LLM-as-judge. Most of the work these days is UI polish and making the agent actually *do* things instead of just answering.
+Data analysis, machine learning, and applied AI/LLM systems. Python and SQL end to end — from raw data to models to production.
 
 ## Projects
 
-**[Stoic](https://cloud9-frontend.vercel.app)** — AI search + chat, Perplexity-style, built end-to-end
-`React · Node.js · Groq · Supabase · pgvector · SearXNG`
+**Stoic** — AI search/answer engine. RAG pipeline, vector search, LLM-as-judge eval suite.
+`Python · SQL · pgvector`
 
-**[CodeZaro](https://github.com/Rakesh051204/codezaro-frontend)** — AI code review SaaS, BYOK encryption, tier-aware review
-`FastAPI · React · Anthropic/Groq`
-
-**IMDb Analytics** — pipeline over 25k+ movies, raw SQL to Power BI dashboards
+**IMDb Analytics** — pipeline over 25k+ movies, raw SQL to Power BI dashboards.
 `SQL · Power BI`
 
-**Imbalanced Dataset Prediction** — classification on skewed data, SMOTE + resampling
-`Scikit-learn`
+**Imbalanced Dataset Prediction** — classification on skewed data, SMOTE + resampling.
+`Python · Scikit-learn`
 
-Smaller stuff — resume parser, student outcome predictor, LLM-generated quiz app, interview prep tool — all on [GitHub](https://github.com/Rakesh051204?tab=repositories).
+**AI Resume Analyzer** — NLP-based parsing and ATS-style scoring.
+`Python · NLP`
+
+More on [GitHub](https://github.com/Rakesh051204?tab=repositories).
 
 ## Stack
 
 ```
-languages   Python, JavaScript, SQL
-ml          PyTorch, TensorFlow, Scikit-learn
-genai       LLMs, RAG, vector search, LangChain, Hugging Face
-data        Pandas, NumPy, Power BI, Tableau
-backend     FastAPI, Node.js, Supabase
-frontend    React
+python      Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
+sql         querying, cleaning, pipelines
+ml / ai     RAG, vector search, LLMs, prompt engineering
+analytics   Power BI, Tableau
 ```
 
 ## Background
